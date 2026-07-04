@@ -32,14 +32,14 @@ const home4Photos = [
 
 // 6–10 kishilik uy rasmlari — 200$
 const home6Photos = [
-  "https://i.ibb.co/XrJjhtmG/photo-2026-07-03-11-46-18.jpg",
-  "https://i.ibb.co/Lz9cZ1Z7/photo-2026-07-03-11-46-20.jpg",
-  "https://i.ibb.co/PZhnJJ9r/photo-2026-07-04-15-00-10.jpg",
-  "https://i.ibb.co/1G4PVTXP/photo-2026-07-04-15-00-17.jpg",
-  "https://i.ibb.co/pjCzFHNX/photo-2026-07-04-15-00-19.jpg",
-  "https://i.ibb.co/mFdx8yBP/photo-2026-07-04-15-00-20.jpg",
-  "https://i.ibb.co/90NNbw3/photo-2026-07-04-15-00-22.jpg",
-  "https://i.ibb.co/fGQNzZCT/photo-2026-07-04-15-00-24.jpg"
+ "images/100usd/1.jpg",
+  "images/100usd/2.jpg",
+  "images/100usd/3.jpg",
+  "images/100usd/4.jpg",
+  "images/100usd/5.jpg",
+  "images/100usd/6.jpg",
+  "images/100usd/7.jpg",
+  "images/100usd/8.jpg"
 ];
 
 const mainMenu = Markup.keyboard([
